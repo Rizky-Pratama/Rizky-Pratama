@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌐 Berfokus pada pengembangan antarmuka pengguna modern.<br>- 💡 Menyukai eksplorasi teknologi baru dalam dunia frontend.<br>- 🎓 Lulusan [Nama Universitas/Tingkat Pendidikan].<br>- 📱 Pengalaman dalam pengembangan responsif dan mobile-friendly.
+🌐 I am a Frontend Developer with a passion for creating beautiful and accessible websites. I am currently an informatics engineering student at Indraprasta University. I am experienced in building websites using modern technologies such as React, Next.js, and Tailwind CSS. I love to learn new things and I am always looking for new opportunities to grow and improve my skills.
 
 
 ## 🌐 Socials:
